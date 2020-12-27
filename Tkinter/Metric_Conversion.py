@@ -1,3 +1,8 @@
+'''
+@author Vaishnavi Madhekar
+A simple metric converter using Tkinter
+'''
+
 #import tkinter module
 import tkinter as tk
 #import math module
