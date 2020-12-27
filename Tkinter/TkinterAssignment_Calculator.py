@@ -1,3 +1,8 @@
+'''
+@ author :- Vaishnavi Madhekar
+A calculator for basic arithmetic operations using Tkinter 
+'''
+
 #import tkinter module
 import tkinter as tk
 #import math module
