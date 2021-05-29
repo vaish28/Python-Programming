@@ -1,0 +1,3 @@
+### Joy Of Computing With Python Sem 6 Coursework
+
+This course was an elective course of my college and this folder contains semester work of the elective
